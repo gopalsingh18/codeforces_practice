@@ -1,5 +1,2 @@
 *.exe
 output/
-.vscode/
-*.log
-*.tmp
